@@ -1,9 +1,3 @@
-/*Hacer un programa que dado el arreglo definido y precargado elimine del arreglo todas las ocurrencias
-  de una secuencia patrón dada por otro arreglo de iguales características (solo tiene esa secuencia).
-  Al eliminar se pierden los valores haciendo los corrimientos.
-*/
-
-
 public class C7_Ejercicio15 {
     public static final int MAX = 20;
     public static final int MAXPAT = 3;
@@ -16,7 +10,7 @@ public class C7_Ejercicio15 {
         int fin_pat = MAXPAT-1;
         System.out.println("Arreglo:");
         imprimir_arreglo_int(arrint);
-        System.out.println("\n\nPatrón:");
+        System.out.println("\n\nPatrÃ³n:");
         imprimir_patron_int(patron);
 
         while (ini_sec < MAX) {
