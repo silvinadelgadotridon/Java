@@ -1,7 +1,4 @@
-/*Hacer un programa que dado el arreglo definido y precargado, y un número entero
-ingresado por el usuario, copie de forma continua las secuencias de tamaño igual al
-número ingresado en otro arreglo de iguales características e inicializado con 0. La
-copia en este último arreglo deben comenzar desde el principio del mismo.*/
+## Hacer un programa que dado el arreglo definido y precargado, y un nÃºmero entero ingresado por el usuario, copie de forma continua las secuencias de tamaÃ±o igual al nÃºmero ingresado en otro arreglo de iguales caracterÃ­sticas e inicializado con 0. La copia en este Ãºltimo arreglo deben comenzar desde el principio del mismo.
 
 import java.util.Random;
 import java.io.BufferedReader;
@@ -70,7 +67,7 @@ public class C7_Ejercicio14{
 	}
 	
 	public static void insertar_sec_arr2(int[]arr, int[]arr2, int numero, int pos, int fin, int index){
-		 System.out.println("Secuencia de ese tamaño encontrada entre las posiciones ["+pos+"] y ["+fin+"].");
+		 System.out.println("Secuencia de ese tamaÃ±o encontrada entre las posiciones ["+pos+"] y ["+fin+"].");
 		while ((pos < MAX)&&(arr[pos]!=0)) {
 				corr_der(arr2, index);
 	            arr2[index] = arr[pos];
