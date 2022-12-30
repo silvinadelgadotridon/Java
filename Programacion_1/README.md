@@ -1,6 +1,7 @@
-En esta sección, hay ejercicios resueltos de arreglos y matrices utilizando el lenguaje Java. Los mismos se realizaron en el trancurso de la Cátedra de Programación 1 en 2022.
+<font size="3"> *En esta sección, hay ejercicios resueltos de arreglos y matrices utilizando el lenguaje Java. Los mismos se realizaron en el trancurso de la Cátedra de Programación 1 en 2022.*
 
-Los enunciados se encuentran a continuación :arrow_down: :arrow_down:
+*Los enunciados se encuentran a continuación :arrow_down: :arrow_down:*
+</font>
 
 # Clase 7 
 
@@ -11,10 +12,10 @@ Hacer un programa que dado el arreglo definido y precargado, y un número entero
 
 ### Ejercicio 15
 
-Hacer un programa que dado el arreglo definido y precargado elimine del arreglo todas las ocurrencias de una secuencia patrón dada por otro arreglo de iguales características (solo tiene esa secuencia). Al eliminar se pierden los valores haciendo los corrimientos.
+Hacer un programa que dado el arreglo definido y precargado elimine del arreglo todas las ocurrencias de una secuencia patrón dada por otro arreglo de iguales características (solo tiene esa secuencia). Al eliminar se pierden los valores haciendo los corrimientos. 
 
 
-# Clase 8 
+# Clase 8
 
 ### Ejercicio 13
 
