@@ -1,3 +1,7 @@
+En esta sección, hay ejercicios resueltos de arreglos y matrices utilizando el lenguaje Java. Los mismos se realizaron en el trancurso de la Cátedra de Programación 1 en 2022.
+
+Los enunciados se encuentran a continuación :arrow_down: :arrow_down:
+
 # Clase 7 
 
 ### Ejercicio 14 
