@@ -1,7 +1,3 @@
-/*Hacer un programa que dada una matriz de secuencias de enteros definida y precargada, y un numero ingresado
- * por el usuario, elimine de cada fila las secuencias de tama�o igual al numero ingresado
-*/
-
 import java.io.BufferedReader;
 import java.io.InputStreamReader;
 import java.util.Random;
